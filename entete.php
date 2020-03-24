@@ -1,5 +1,5 @@
 <header>	   
-  <TABLE width=100%>  
+  <ABLE width=100%>  
     <TR height="45">  
       <TD width=40% style=" font-family: Times New Roman, Times, serif;text-align:Center; font-size:2.2em;" >Aéroports SAFI2022</TD>      
          
@@ -16,6 +16,7 @@
 
 </header>
 <div>
+Bonjour from Oumalek Ayoub
 <ul>
   <li><a class="active" href="index.php">Accueil</a></li>
   <li><a href="planning.php">Planning </a></li>
